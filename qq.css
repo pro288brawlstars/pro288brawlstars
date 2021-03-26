@@ -1,0 +1,26 @@
+body {
+font-family: 'DotGothic16',   cursive;
+background-color: #F7BDC8;
+
+}
+
+a {
+font-family: 'DotGothic16', serif;
+color: #542377;
+
+}
+
+
+
+.q {
+width: 60%;
+margin: auto;
+background-color: red;
+
+}
+
+.w {
+font-family: 'DotGothic16',   sans-serif;
+color: #ED002F;
+
+}
